@@ -14,7 +14,7 @@ Sprites and TileMap taken from Kenney.nl (https://kenney.nl/assets/pixel-platfor
 None
 
 ## Extra Credit
-None
+- Sprite change from what was originally given to Kenney.nl sprite 
 
 ## Created by 
 Danielle Dixon
