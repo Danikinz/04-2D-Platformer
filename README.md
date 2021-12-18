@@ -8,7 +8,7 @@ Built using Godot 3.2.3
 The player sprite is adaptated from [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
 
 ## References
-None
+Sprites and TileMap taken from Kenney.nl (https://kenney.nl/assets/pixel-platformer) (https://kenney.nl/assets/simplified-platformer-pack)
 
 ## Future Development
 None
@@ -17,4 +17,4 @@ None
 None
 
 ## Created by 
-Jason Francis
+Danielle Dixon
